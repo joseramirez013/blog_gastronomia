@@ -17,3 +17,7 @@ img{
 .users{
   height: 50px;
 }
+
+.contenedor-principal{
+  background: rgba(250, 10, 10, 0.50);
+}
